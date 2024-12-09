@@ -1,4 +1,4 @@
-# Germline Variant calling pipelines comparison
+# Germline Variant calling pipeline comparison
 
 Inspired by [this repository](https://github.com/aalnawfal1992/Clinical_Validation_Of_WES) and aalnawfal1992, who offered guidance and valuable discussions, I must say, "Thank you very much, aalnawfal1992."
 
@@ -24,7 +24,7 @@ https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/release/NA12878_HG001/N
 
 WGS dataset: https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/NA12878/NIST_NA12878_HG001_HiSeq_300x/140407_D00360_0017_BH947YADXX/Project_RM8398/
 
-# Comparing two VCF files:
+# Comparing two VCF files
 
 https://github.com/RealTimeGenomics/rtg-tools
 
